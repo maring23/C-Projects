@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpencerFlores_ADBMS_Assignment1", "SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1.csproj", "{F6FEF98D-4312-4444-93AA-CFC21C31246E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FEF98D-4312-4444-93AA-CFC21C31246E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FEF98D-4312-4444-93AA-CFC21C31246E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FEF98D-4312-4444-93AA-CFC21C31246E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FEF98D-4312-4444-93AA-CFC21C31246E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
