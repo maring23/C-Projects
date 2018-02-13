@@ -1,0 +1,10 @@
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\bin\Debug\SpencerFlores_ADBMS_Assignment1.exe.config
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\bin\Debug\SpencerFlores_ADBMS_Assignment1.exe
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\bin\Debug\SpencerFlores_ADBMS_Assignment1.pdb
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.Form1.resources
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.Properties.Resources.resources
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.csproj.GenerateResource.Cache
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.exe
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.pdb
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Valles\Documents\Visual Studio 2012\Projects\SpencerFlores_ADBMS_Assignment1\SpencerFlores_ADBMS_Assignment1\obj\Debug\SpencerFlores_ADBMS_Assignment1.Form2.resources
